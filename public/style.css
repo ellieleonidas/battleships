@@ -261,7 +261,7 @@ h1{
 }
 
 .miss::after {
-  background-color: red;
+  background-color: white;
 }
 
 .boom::after {
